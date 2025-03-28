@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml,https://epg.112114.xyz/pp.xml,https://live.fanmingming.cn/e.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
-http://10.10.10.1:7088/http://10.10.10.1:7088/rtp://233.18.204.52:5140
+http://10.10.10.1:7088/rtp://233.18.204.52:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://10.10.10.1:7088/rtp://233.18.204.168:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
